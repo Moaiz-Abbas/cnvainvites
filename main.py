@@ -9,7 +9,7 @@ import datetime
 import subprocess
 from pathlib import Path
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8140959778:AAGVZQrl1q2qx1ezuZLHo3-KqscXsgRj3Og"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Paths for saving user data and invite links
